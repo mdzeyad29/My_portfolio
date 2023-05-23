@@ -301,7 +301,7 @@ transform: translateY(0px);
  .project-cards{
     width: 70%;
     height:450px;
-    background-image: url(image/Password-generator.jpg);
+    background-image: url(Password-generator.jpg);
      background-size: cover;
      position: relative;
      box-shadow: 0px 0px 40px #1f1f1f;
@@ -391,11 +391,11 @@ transform: translateY(0px);
        }
 
        #card2{
-               background-image: url(image/Project1.png);
+               background-image: url(Project1.png);
                margin-left: 20em;
        }
        #card3{
-        background-image: url(image/Project2.png);
+        background-image: url(Project2.png);
        }
 
        
