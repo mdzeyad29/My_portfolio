@@ -591,6 +591,14 @@ footer{
   }
 }
 @media (max-width:600px) {
+    .navbaar{
+    display:flex;
+    flex-direction: column;
+  }
+  .hero-section{
+    display:flex;
+    flex-direction: column;
+  }
   .heading-project {
     padding-top: 30px;
     color:#e84949;
